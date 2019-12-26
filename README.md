@@ -1,4 +1,4 @@
-### basic-python
+### Basic-python
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GokulDas027/basic-python/)
 
 This is a Basic Python tutorial I made for a session for my juniors at college. I thought this might be helpful for others too. Feel free to clone, edit and share this.
